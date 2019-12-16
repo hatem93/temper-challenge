@@ -53,7 +53,7 @@ $ ./vendor/bin/phpunit tests/
 # Notes
 - I have implemented the backend in vanilla PHP as to get more bonus points.
 - I have implemented the frontend in VueJS "note that this is my first ever experience in VueJS so i might have not followed all the best practices".
-
+- The screenshot of the output is provided at the base folder named temper-weekly-retention-cohort.png
 
 # Todos
 
