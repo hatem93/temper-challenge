@@ -40,7 +40,7 @@ $ npm run dev
 
 # Testing
 
-24 Tests with 46 assertions.
+16 Tests with 40 assertions.
 to run the  test use this command 
 ```sh
 $ cd temper_backend
@@ -57,7 +57,7 @@ $ ./vendor/bin/phpunit tests/
 
 # Todos
 
- - Write more tests
+ - Write more tests "mainly for week helper"
  - Include a Service Layer and a Repository Layer but with the current requirements that was not needed.
  - Include more type of parsers and readers to allow for different input formats.
  
