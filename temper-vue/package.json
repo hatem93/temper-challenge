@@ -14,7 +14,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "highcharts": "^8.0.0",
+    "highcharts": "^9.0.0",
     "highcharts-vue": "^1.3.5",
     "vue": "^2.5.2",
     "vue-resource": "^1.5.1",
